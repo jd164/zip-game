@@ -2,6 +2,8 @@
 
 Uma recriação moderna e elegante do jogo **"Zip" do LinkedIn** desenvolvida em **React**, **Vite** e **Tailwind CSS**.
 
+🎮 **[Jogar Online (Live Demo)](https://jd164.github.io/zip-game/)**
+
 O objetivo é traçar um caminho contínuo e único que conecte todos os pontos numerados na ordem correta, contornando barreiras e preenchendo **100% das células** do tabuleiro.
 
 ---
